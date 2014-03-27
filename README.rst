@@ -3,6 +3,8 @@ Oilbird
 
 **Gnip Historical Search**
 
+**Work in progress, not complete yet**
+
 .. code-block:: bash
 
     $ oilbird init
@@ -10,6 +12,22 @@ Oilbird
     Enter username: <your gnip username>
     Enter password: <your gnip password>
 
+Listing jobs is easy:
+
+.. code-block:: bash
+
+    $ oilbird list
+
+You can also just read from the local job cache:
+
+..code-block:: bash
+
+    $ oilbird list cache
+
+API
+---
+
+As far as I understand Gnip does not intend their Historical Powertrack to be used programmatically, so neither do I intend this tool to be used in such a way. I am however sure that it would be possible.
 
 Name
 ----
