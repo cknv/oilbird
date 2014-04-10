@@ -6,6 +6,7 @@ setup(
     version=oilbird.version,
     author='Esben Sonne',
     author_email='esbensonne@gmail.com',
+    license='MIT',
     url='https://github.com/cknv/oilbird',
     install_requires=[
         'requests>=1.0',
