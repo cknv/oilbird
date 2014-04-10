@@ -20,7 +20,7 @@ Listing jobs is easy:
 
 You can also just read from the local job cache:
 
-..code-block:: bash
+.. code-block:: bash
 
     $ oilbird list cache
 
