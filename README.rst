@@ -33,3 +33,5 @@ Name
 ----
 
 The name is taken from http://en.wikipedia.org/wiki/Oilbird which is described as having a primitive echolocation. Which is suitable since command line tools aren't that fancy.
+
+Apparently, there is also something about social media and birds.
